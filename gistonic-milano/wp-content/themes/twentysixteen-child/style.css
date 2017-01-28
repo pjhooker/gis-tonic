@@ -1,0 +1,81 @@
+/*
+Theme Name: Twenty Sixteen Child theme
+Description: Child theme of Twenty Sixteen
+Version: 0.1
+Template: twentysixteen
+*/
+
+/*
+.site-title{
+  font-size:50px;
+}
+*/
+
+.site {
+    background-color: #f3f3f4;
+}
+
+.menu-top-container{
+  background-image: url(http://gistonic-milano.1hi.it/wp-content/uploads/2016/03/metro_menu-2.png);
+  /*height: 200px;*/
+  /*width: 400px;*/
+  /*border: 1px solid black;*/
+  background-repeat: no-repeat;
+  /*background-attachment: fixed;*/
+  background-position: center bottom;
+}
+
+#send_email_button{
+
+}
+
+.mail-submit:before {
+	content: "\f410";
+}
+
+
+/*
+ Post thumbnail con Titolo overlay
+ */
+
+.post-thumbnail {
+   position: relative;
+   width: 100%; /* for IE 6 */
+}
+.h1-post-thumbnail {
+   position: absolute;
+   top: 20px;
+   left: 0;
+   max-width: 300px;
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.4);
+   padding: 10px;
+}
+
+.h1-post-thumbnail span {
+   color: white;
+   font: bold 24px/45px Helvetica, Sans-Serif;
+   letter-spacing: -1px;
+}
+
+.foo-post-thumbnail {
+   position: absolute;
+   top: 150px;
+   left: 50px;
+   max-width: 300px;
+   padding: 10px;
+}
+
+.button-thumb-bottom-right {
+   position: absolute;
+   bottom: 10px;
+   right: 10px;
+   padding: 10px;
+}
+
+.info-thumb{
+  position: absolute;
+  top: 90px;
+  left: 30px;
+  max-width: 80%;
+}
