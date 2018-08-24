@@ -1,0 +1,38 @@
+
+{
+    "sEcho": "1",
+    "geoInfo": [
+        "api-page:geometry-row1"
+    ],
+    "iTotalRecords": "1",
+    "iTotalDisplayRecords": "1",
+    "aaData": [
+        [
+            "The Treasures in the Trash Collection",
+            "t2"
+        ]
+    ],
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "titolo": "The Treasures in the Trash Collection",
+                "content": "A New York garbage depot holds a secret collection of weird and wonderful refuse.\r\n\r\nSecreted away on the second floor of the MANEAST11 garbage truck garage is an ever-growing collection of strange items that have been plucked from the trash, and while it is not open to the public it is populated by their stuff.\r\n\r\n<a href=\"https:\/\/www.atlasobscura.com\/places\/the-treasures-in-the-trash-collection-new-york-new-york\" target=\"_blank\" rel=\"noopener\">Leggi articolo originale su atlasobscura.com<\/a>",
+                "image": "http:\/\/www.gistonic.it\/geoblog-milano\/wp-content\/uploads\/2018\/08\/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzL2E3ZTE1MmUwMzA5ODJmNmYxOF9Cd3hvOTN6SVlBQWhENGQuanBnIl0sWyJwIiwidGh1bWIiLCIxMjAweD4iXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgODEgLWF1dG8tb3JpZW50Il1d-1024x683.jpg",
+                "plink": "http:\/\/www.gistonic.it\/geoblog-milano\/instagram\/the-treasures-in-the-trash-collection\/",
+                "term_list1": "hidden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.94397279999998",
+                    "40.7857381"
+                ]
+            }
+        }
+    ],
+    "geoQuery": [
+
+    ]
+}  
